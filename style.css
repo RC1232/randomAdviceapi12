@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&family=Space+Grotesk:wght@500&display=swap');
+
+body{ background-color:  hsl(217, 19%, 24%);}
+
+main {color: hsl(193, 38%, 86%); display:flex;  background-color: center; padding-left:10px; padding-top:20px; width:70vw; background-color: hsl(217, 19%, 38%); font-size: 28px; display: flex; flex-direction: row; margin: 10%;}
+
+span {color: hsl(150, 100%, 66%); padding: 10px;}
